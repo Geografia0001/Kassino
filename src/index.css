@@ -1,0 +1,10 @@
+:root {
+  font-family: system-ui, sans-serif;
+  background-color: #fff;
+  color: #213547;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+}
